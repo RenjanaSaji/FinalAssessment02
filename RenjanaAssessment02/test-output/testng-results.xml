@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-16T00:12:12 IST" name="Default suite" finished-at="2022-12-16T00:12:19 IST" duration-ms="7465">
+    <groups>
+    </groups>
+    <test started-at="2022-12-16T00:12:12 IST" name="Default test" finished-at="2022-12-16T00:12:19 IST" duration-ms="7465">
+      <class name="com.renjana02.Scripts.TestClass">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.renjana02.Scripts.TestClass@661972b0]" started-at="2022-12-16T00:11:46 IST" name="initialization" finished-at="2022-12-16T00:12:12 IST" duration-ms="25794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="loginVerification()[pri:0, instance:com.renjana02.Scripts.TestClass@661972b0]" started-at="2022-12-16T00:12:12 IST" name="loginVerification" finished-at="2022-12-16T00:12:14 IST" duration-ms="2089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginVerification -->
+        <test-method signature="homeVerification()[pri:1, instance:com.renjana02.Scripts.TestClass@661972b0]" started-at="2022-12-16T00:12:14 IST" name="homeVerification" finished-at="2022-12-16T00:12:16 IST" duration-ms="1934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeVerification -->
+        <test-method signature="addEmployee()[pri:2, instance:com.renjana02.Scripts.TestClass@661972b0]" started-at="2022-12-16T00:12:16 IST" name="addEmployee" finished-at="2022-12-16T00:12:17 IST" duration-ms="1751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method signature="listEmployee()[pri:3, instance:com.renjana02.Scripts.TestClass@661972b0]" started-at="2022-12-16T00:12:18 IST" name="listEmployee" finished-at="2022-12-16T00:12:19 IST" duration-ms="1637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listEmployee -->
+      </class> <!-- com.renjana02.Scripts.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
